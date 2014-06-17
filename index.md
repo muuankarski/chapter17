@@ -10,7 +10,7 @@ How to
 2. Outputs are generated on request. 
 	- Email <a href="mailto:markus.kainu@helsinki.fi?Subject=compile regional inequality" target="_top"> Markus</a> if you want the source to be converted
 3. Browse the outputs:
-	- [pdf](regional_inequality.docx)
+	- [pdf](regional_inequality.pdf)
 	- [docx](regional_inequality.docx)
 
 
