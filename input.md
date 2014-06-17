@@ -1,4 +1,4 @@
-% "The Russian Welfare State System: With Special Reference to Regional Inequality"
+% The Russian Welfare State System: With Special Reference to Regional Inequality
 % Kulmala Meri; Kivinen Markku; Nikula Jouko; Kainu Markus
 % June, 17, 2014
 
@@ -29,6 +29,8 @@
 # Introduction
 
 Ut convallis vel odio id ultricies. Sed at lacus ut nunc rutrum  sollicitudin sit amet at neque. Vivamus fermentum, magna non porttitor  rhoncus, nulla ipsum varius felis, in ornare ante massa a mauris. In id  diam gravida ipsum ornare fermentum. Proin sit amet est sollicitudin,  interdum turpis eget, dictum mauris. Proin congue pharetra eros, eget  viverra justo pulvinar sit amet. Class aptent taciti sociosqu ad litora  torquent per conubia nostra, per inceptos himenaeos. 
+
+![](figure/scatter_1.png)
 
 | This | is | table | heading |
 | ------ | --- | ------- | ----- |
