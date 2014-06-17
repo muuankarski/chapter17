@@ -6,7 +6,7 @@ lang: english
 How to
 ==========================
 
-1. Make your edits in the source: [pad.okfn.org/p/AiSurvey](http://pad.okfn.org/p/AiSurvey) (**See writing instructions from below**)
+1. Make your edits in the source: [muistio.tieke.fi/russia-regional-inequality](http://muistio.tieke.fi/russia-regional-inequality) (**See writing instructions from below**)
 2. Outputs are generated on request. 
 	- Email <a href="mailto:markus.kainu@helsinki.fi?Subject=compile regional inequality" target="_top"> Markus</a> if you want the source to be converted
 3. Browse the outputs:
