@@ -42,6 +42,18 @@ Ut convallis vel odio id ultricies. Sed at lacus ut nunc rutrum  sollicitudin si
 
 Suspendisse quis eros sit amet nibh ultricies lacinia ac eget neque. Sed  posuere felis vitae nunc imperdiet convallis. Integer eget mi  consequat, aliquam nulla sit amet, tempus tellus. Vivamus faucibus,  libero sit amet posuere convallis, risus nibh pulvinar urna, quis  vulputate turpis eros non erat. Mauris pharetra lobortis nisl. Aliquam  sit amet venenatis nisi, et pharetra purus. Etiam magna elit, auctor non  velit in, bibendum interdum eros. Sed sit amet lacus id sapien sodales  egestas. Morbi semper massa non dolor imperdiet mollis. 
 
+Table: Regional disparities in social development indicators, 2010
+
+| Indicator | Russian Federation | Best Region | Worst region | Moscow city |
+| --------  | ------------------ | ----------- | ------------ | ----------- |
+| GDP per capita, PPP USD | 18,260 | 46,359 (Tiumen region) | 1,988 (Republic of Ingushetia) | 37,088|
+|   | Poland | Switzerland | Cambodia, Nigeria | Canada |
+| Fertility rate | 1.537 | 3.376 (Chechen Republic) | 1.185 (Leningrad Region) | 1.41 |
+|   | Switzerland, Spain, Czech Republic | Haiti, Bolivia, Laos | Republic of Korea  | Austria, Hungary, Italy|
+| Infant mortality | 8.1 | 4.0 (Khanty-mansiyskiy AO) | 16.6 (Chechenskaya Republic) | 6.7 |
+|   |  Bulgaria, Kuwait, Montenergo | Austria, Belgium, Germany | Brasil, China | Latvia, Chile |
+| Life expectancy at birth | 68.67 | 78.31 (Republic of Ingushetia) | 58.22 (Chukotskiy AO) | 73.61 |
+|  | Belarus, Moldova |  Portugal, Slovenia | Guinea, Sudan | Bulgaria, Hungary |
 
 - this
 - is
