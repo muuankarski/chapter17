@@ -3,7 +3,7 @@
 
 # Create and move to backup directory
 cd ~/workspace/russia/regional_inequality
-curl -o input.md http://muistio.tieke.fi/ep/pad/export/russia-regional-inequality/latest?format=txt
+curl -o input.md http://muistio.tieke.fi/p/russia-regional-inequality/export/txt
 
 #pandoc -s -S --number-section --toc --from=markdown+yaml_metadata_block -H /home/aurelius/web/css/rmarkdown.css input.md -o article_demokr.html
 # pdf
