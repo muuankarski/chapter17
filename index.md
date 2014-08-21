@@ -6,7 +6,7 @@ lang: english
 How to
 ==========================
 
-1. Muokkaa lähdekoodia: [muistio.tieke.fi/russia-regional-inequality](http://muistio.tieke.fi/russia-regional-inequality)
+1. Muokkaa lähdekoodia: [muistio.tieke.fi/russia-regional-inequality](http://muistio.tieke.fi/p/russia-regional-inequality)
 2. Pyrin laittamaan napin, joka generoi pdf/docx. Toistaiseksi <a href="mailto:markus.kainu@helsinki.fi?Subject=compile regional inequality" target="_top"> meiliä Markukselle</a>  kun muutokset ptää kääntää.
 3. Katso "valmiit" asiakirjat:
 	- [pdf](regional_inequality.pdf)
